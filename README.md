@@ -1,4 +1,4 @@
-<p align="center"> Firr </p>
+<h1 align="center"> Firr </h1>
 <blockquote><strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong></blockquote>
 
 <ul>
