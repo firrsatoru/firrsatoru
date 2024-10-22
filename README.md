@@ -20,7 +20,7 @@ ___
   - Currently diving deeper into backend development with **Node.js** and **Express.js**.
   - Exploring **MongoDB** for database management and **RESTful API** creation.
   - Future learning: Planning to learn **React.js** for frontend development and dive into more complex backend architectures.
-  - Interested in **TypeScript** for improved type safety in JavaScript projects.
+  - Interested in **React** and **Typescript**.
 
 - **Personal Projects**:
   - **[Personal Website](https://ex.com)**
