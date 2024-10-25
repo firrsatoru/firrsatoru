@@ -24,6 +24,5 @@ ___
   - Interested in **React.js** and **TypeScript**.
 
 - **Personal Projects**:
-  - **[Personal Website](https://ex.com)**
-  - **[Whatsapp Bot](https://github.com/firrsatoru/)**
+  - **[Personal Website](https://firr.my.id)**
   - **[RestAPI Website](https://firrcp.xyz/)**
