@@ -27,4 +27,4 @@ ___
   - **[Personal Website](https://firr.my.id)**
   - **[RestAPI Website](https://firrcp.xyz/)**
 
-![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10)
+![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?firrsatoru=USERNAME&layout=compact&langs_count=10)
