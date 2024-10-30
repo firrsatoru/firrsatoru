@@ -26,3 +26,5 @@ ___
 - **Personal Projects**:
   - **[Personal Website](https://firr.my.id)**
   - **[RestAPI Website](https://firrcp.xyz/)**
+
+![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10)
