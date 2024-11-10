@@ -2,7 +2,7 @@
 - **Name**: Firr
 - **Profession**: Web Developer
 - **Location**: Indonesia
-- **Website**: [firr.me](https://firr.me)
+- **Website**: [https://firr.me](https://firr.me)
 - **GitHub**: [@firrsatoru](https://github.com/firrsatoru)
 - **Instagram**: [@firrsatoru](https://www.instagram.com/firrsatoru)
 - **Email**: firrsatoru@gmail.com
