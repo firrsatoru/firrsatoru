@@ -16,7 +16,20 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-___
+---
+
+### 🖥️ Editor and Tools
+- **Code Editor**: 
+  - [VS Code](https://code.visualstudio.com/) - A powerful and customizable code editor that I use for all my projects.
+  - [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) - A mobile code editor for quick edits on the go.
+  - [Spck Editor](https://play.google.com/store/apps/details?id=com.ionicframework.spck) - A lightweight code editor for writing web code directly on your mobile device.
+- **Version Control**: [Git](https://git-scm.com/) - Managing my project versioning with Git for easier collaboration and deployment.
+- **Browser**: [Google Chrome](https://www.google.com/chrome/) - Preferred browser for testing web applications.
+- **Terminal**: 
+  - [Linux Terminal](https://www.gnu.org/software/bash/) - I use the terminal in Linux for various tasks like coding, testing, deployment, and running server processes.
+  - [Termux](https://termux.com/) - A terminal emulator and Linux environment for Android, providing access to a full Linux distribution on a mobile device.
+
+---
 
 ### 📚 Learning Path / Personal Projects
 - **Learning Path**:
@@ -28,8 +41,3 @@ ___
 - **Personal Projects**:
   - **[Personal Website](https://firr.my.id)**
   - **[RestAPI Website](https://firrcp.xyz/)**
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firrsatoru&layout=compact&langs_count=10&theme=dark" />
-</p>
