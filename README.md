@@ -51,6 +51,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Termux](https://img.shields.io/badge/-Termux-009688?style=flat&logo=termux&logoColor=white)
+![Termux](https://img.shields.io/badge/-Termux-009688?style=flat&logo=termux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Acode](https://img.shields.io/badge/-Acode-0E3C59?style=flat&logo=android&logoColor=white)
 ![Spck Editor](https://img.shields.io/badge/-Spck%20Editor-2085F4?style=flat&logo=ionic&logoColor=white)
